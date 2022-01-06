@@ -1,0 +1,16 @@
+// Modules
+node_modules/
+
+// Images uploads
+uploads/sites/*
+uploads/circuits/*
+uploads/events/*
+
+// Emacs autosaving
+*~
+*/*~
+*#
+*/*#
+app/middlewares/log-end-point-call.js
+app/models/binnacle.model.js
+.serverless/
